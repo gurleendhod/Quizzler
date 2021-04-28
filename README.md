@@ -3,14 +3,14 @@ Quizzler is an interactive platform to play quizzes and test your knowledge of a
 
 
 <p align="center">
-  <img src="Screenshot_1.png" width="300" height="650" alt = "error">
+  <img src="Screenshot_1.png" width="300" alt = "error">
 </p>
 <p align="center">
-  <img src="Screenshot_2.png" width="300" height="650" alt = "error">
+  <img src="Screenshot_2.png" width="300" alt = "error">
 </p>
 <p align="center">
-  <img src="Screenshot_3.png" width="300" height="650" alt = "error">
+  <img src="Screenshot_3.png" width="300" alt = "error">
 </p>
 <p align="center">
-  <img src="Screenshot_4.png" width="300" height="650" alt = "error">
+  <img src="Screenshot_4.png" width="300" alt = "error">
 </p>
