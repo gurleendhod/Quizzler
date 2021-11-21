@@ -21,6 +21,6 @@ Quizzler is an interactive platform to play quizzes and test your knowledge of a
 
 3. At last, a pop appears when the quiz ends.
 
-<img src="assets/4.jpeg" height="350px">
+<img src="assets/4.png" height="350px">
 
 <br>
